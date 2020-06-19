@@ -17,4 +17,7 @@ public class ConnectionFactoryUtil {
         f.setPassword("admin");
         return f;
     }
+    public void Print(){
+        system.out.println("1");
+    }
 }
